@@ -13,7 +13,7 @@ Goals of the WG are:
 1. _goal 1_
 2. ...
 
-_Non-goals are things that the working group are intentionally choosing not to do, the things not expected to change due to the working groups efforts, or the subject matter areas that the working groups doesn’t want to address at this time. _
+_Non-goals are things that the working group are intentionally choosing not to do, the things not expected to change due to the working groups efforts, or the subject matter areas that the working groups doesn’t want to address at this time._
 
 Non-goals of the WG are:
 
